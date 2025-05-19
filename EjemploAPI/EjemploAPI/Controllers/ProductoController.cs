@@ -5,6 +5,8 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using EjemploAPI.Models;
+using Dominio;
+using Servicio;
 
 namespace EjemploAPI.Controllers
 {
